@@ -10,7 +10,8 @@ public class Pessoa {
         this.numConta = numConta;
         this.saldo = saldo;
 
-    }public Pessoa(String nome, int numConta, double saldo, String tConta) {
+    }
+    public Pessoa(String nome, int numConta, double saldo, String tConta) {
         this.nome = nome;
         this.numConta = numConta;
         this.saldo = saldo;
@@ -50,7 +51,6 @@ public class Pessoa {
     public void setSaldo(double saldo) {
         this.saldo = saldo;
     }
-
     public double sacar(double val){
 
         if(val > saldo){

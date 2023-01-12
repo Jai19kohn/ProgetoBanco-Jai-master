@@ -26,8 +26,10 @@ public class Aplicacao {
             if ("CRIAR".equalsIgnoreCase(cren)) {
                 funcoes.criarContPf();
                 System.out.println("O número da sua conta é " + pfCriar.getNumConta());
-                num = funcoes.numAcao();
+                do{
+                    num = funcoes.numAcao();
                 funcoes.acao(pfCriar, num);
+                }while (num!=7);
             } else if ("ENTRAR".equalsIgnoreCase(cren)) {
                 funcoes.confContPf();
                 num = funcoes.numAcao();

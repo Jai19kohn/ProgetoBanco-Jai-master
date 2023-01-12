@@ -9,11 +9,11 @@ public class Pf extends Pessoa {
         this.cpf = cpf;
     }
 
-    public Pf(String nome, double numConta, double saldo,String tConta, String cpf) {
+    public Pf(String nome, int numConta, double saldo,String tConta, String cpf) {
         super(nome, numConta, saldo, tConta);
 
     }
-    public Pf(String nome, double numConta, double saldo, String cpf) {
+    public Pf(String nome, int numConta, double saldo, String cpf) {
         super(nome, numConta, saldo);
 
     }

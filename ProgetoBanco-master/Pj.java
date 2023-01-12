@@ -12,11 +12,11 @@ public class Pj extends Pessoa{
         this.cnpj = cnpj;
     }
 
-    public Pj(String nome, double numConta, double saldo, String tConta, String cnpj) {
+    public Pj(String nome, int numConta, double saldo, String tConta, String cnpj) {
         super(nome, numConta, saldo, tConta);
 
     }
-    public Pj(String nome, double numConta, double saldo, String cnpj) {
+    public Pj(String nome, int numConta, double saldo, String cnpj) {
         super(nome, numConta, saldo);
 
     }

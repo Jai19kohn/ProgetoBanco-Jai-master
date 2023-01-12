@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Funcoes {
-
     Scanner ler = new Scanner(System.in);
 
     private String numeroC;
@@ -18,7 +17,7 @@ public class Funcoes {
             System.out.println("\nDigite qual função voce deseja \n 1 Sacar \n 2 Depositar \n 3 transferir\n " +
                     "4 Consultar saldo\n 5 Investir \n 6 Conta polpança \n 7 encerrar visita");
             num = ler.nextInt();
-        } while (num>7);
+        } while (num>6);
         return num;
     }
     public void acao(Pessoa obj, int num) {
