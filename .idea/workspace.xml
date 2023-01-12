@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b954762-ee8f-49b0-877a-b79ea298e2bf" name="Changes" comment="atualização">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/Aplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/Funcoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/Pf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/Pj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/novo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/.idea/projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/Aplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/Pf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/Pj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgetoBanco-master/out/production/projeto/novo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/Aplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/Pf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/Pj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/novo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/out/production/projeto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/out/production/projeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/out/production/projeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProgetoBanco-master (2)/out/production/projeto/.idea/projeto.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JsFYSBldMqXaZtg2nqNK4aymRP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Administrador/Desktop/ProgetoBanco-Jai-master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aplicacao" />
+      <module name="ProgetoBanco-master (2)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b954762-ee8f-49b0-877a-b79ea298e2bf" name="Changes" comment="" />
+      <created>1672858931020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672858931020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização" />
+  </component>
+</project>
